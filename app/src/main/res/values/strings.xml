@@ -7,4 +7,7 @@
     <string name="grade">grade</string>
     <string name="calculate">calculate</string>
     <string name="clear">clear</string>
+    <string name="info">To know about the grading system view pdf(page no: 26)
+        \n
+        https://www.rvce.edu.in/sites/default/files/2018-Handbook%20with%20annexure.pdf</string>
 </resources>
