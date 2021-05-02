@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grade_calculator</string>
+    <string name="sttitle">RVCE_Grade_calculator</string>
+    <string name="stname">Student Name</string>
+    <string name="cie">CIE Marks</string>
+    <string name="see">SEE Marks</string>
+    <string name="grade">grade</string>
+    <string name="calculate">calculate</string>
+    <string name="clear">clear</string>
+</resources>
